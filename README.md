@@ -1,6 +1,6 @@
 # Firebase-Contact-App
 
-This React Application implements Create, Retrieve, Update, and Delete (CRUD) operations with the firebase realtime database.
+This React Application implements Create, Retrieve, Update, and Delete (CRUD) operations with the firebase realtime database. Users can add, read, edit and delete the contact informations in their Contact Book.
 
 
 ## Installation and Setup Instructions
